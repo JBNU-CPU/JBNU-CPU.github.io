@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/JBNU-CPU.github.io/static/css/main.df238a25.css",
-    "main.js": "/JBNU-CPU.github.io/static/js/main.b312603f.js",
-    "static/js/453.3f00b251.chunk.js": "/JBNU-CPU.github.io/static/js/453.3f00b251.chunk.js",
-    "static/media/CPU_Room2.jpg": "/JBNU-CPU.github.io/static/media/CPU_Room2.d7d4a581fca721e2b631.jpg",
-    "static/media/StudyMain.png": "/JBNU-CPU.github.io/static/media/StudyMain.fb441540eadf46088a40.png",
-    "static/media/map.png": "/JBNU-CPU.github.io/static/media/map.31dd93160713222651c2.png",
-    "static/media/CPU_Room.jpg": "/JBNU-CPU.github.io/static/media/CPU_Room.9d6a8f99d34a35613a5f.jpg",
-    "static/media/img5.png": "/JBNU-CPU.github.io/static/media/img5.fa6e4c9806a0b182b034.png",
-    "static/media/img4.png": "/JBNU-CPU.github.io/static/media/img4.b7fa4d153d2caf21e839.png",
-    "static/media/img2.png": "/JBNU-CPU.github.io/static/media/img2.623830563c64445d26cd.png",
-    "static/media/img3.png": "/JBNU-CPU.github.io/static/media/img3.795b01b88b5bde0af790.png",
-    "static/media/CPU_logo_full.jpeg": "/JBNU-CPU.github.io/static/media/CPU_logo_full.19e976e7ce2fb98855bd.jpeg",
-    "static/media/CPU_logo_white.png": "/JBNU-CPU.github.io/static/media/CPU_logo_white.8a00b8264af831a5e856.png",
-    "static/media/img1.png": "/JBNU-CPU.github.io/static/media/img1.0ddc0097502268852386.png",
-    "static/media/tree.jpg": "/JBNU-CPU.github.io/static/media/tree.91bd30eda156d14dee4b.jpg",
-    "index.html": "/JBNU-CPU.github.io/index.html",
-    "main.df238a25.css.map": "/JBNU-CPU.github.io/static/css/main.df238a25.css.map",
-    "main.b312603f.js.map": "/JBNU-CPU.github.io/static/js/main.b312603f.js.map",
-    "453.3f00b251.chunk.js.map": "/JBNU-CPU.github.io/static/js/453.3f00b251.chunk.js.map"
+    "main.css": "/static/css/main.df238a25.css",
+    "main.js": "/static/js/main.07000599.js",
+    "static/js/453.3f00b251.chunk.js": "/static/js/453.3f00b251.chunk.js",
+    "static/media/CPU_Room2.jpg": "/static/media/CPU_Room2.d7d4a581fca721e2b631.jpg",
+    "static/media/StudyMain.png": "/static/media/StudyMain.fb441540eadf46088a40.png",
+    "static/media/map.png": "/static/media/map.31dd93160713222651c2.png",
+    "static/media/CPU_Room.jpg": "/static/media/CPU_Room.9d6a8f99d34a35613a5f.jpg",
+    "static/media/img5.png": "/static/media/img5.fa6e4c9806a0b182b034.png",
+    "static/media/img4.png": "/static/media/img4.b7fa4d153d2caf21e839.png",
+    "static/media/img2.png": "/static/media/img2.623830563c64445d26cd.png",
+    "static/media/img3.png": "/static/media/img3.795b01b88b5bde0af790.png",
+    "static/media/CPU_logo_full.jpeg": "/static/media/CPU_logo_full.19e976e7ce2fb98855bd.jpeg",
+    "static/media/CPU_logo_white.png": "/static/media/CPU_logo_white.8a00b8264af831a5e856.png",
+    "static/media/img1.png": "/static/media/img1.0ddc0097502268852386.png",
+    "static/media/tree.jpg": "/static/media/tree.91bd30eda156d14dee4b.jpg",
+    "index.html": "/index.html",
+    "main.df238a25.css.map": "/static/css/main.df238a25.css.map",
+    "main.07000599.js.map": "/static/js/main.07000599.js.map",
+    "453.3f00b251.chunk.js.map": "/static/js/453.3f00b251.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df238a25.css",
-    "static/js/main.b312603f.js"
+    "static/js/main.07000599.js"
   ]
 }
